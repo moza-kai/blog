@@ -12,9 +12,7 @@
 
 ## MongoDB
 
-MongoDB adalah database dokumen NoSQL yang open-source. Dirancang untuk menyimpan data dalam format fleksibel, mirip dengan JSON, yang disebut BSON (Binary JSON). Keunikan MongoDB terletak pada kemampuannya untuk menangani data dengan struktur yang beragam dan kompleks.
 
-MongoDB dikembangkan oleh MongoDB Inc. (sebelumnya dikenal sebagai 10gen) pada tahun 2007. Versi pertama dari database ini dirilis ke publik pada tahun 2009. Nama "Mongo" berasal dari kata "humongous", menunjukkan kemampuannya untuk menangani data dalam jumlah yang sangat besar.
 
 ## Features
 

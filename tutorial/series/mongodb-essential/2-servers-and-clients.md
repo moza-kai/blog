@@ -25,12 +25,7 @@ Ini adalah inti dari sistem MongoDB, yang menjalankan database engine. Server be
 
 ## MongoDB Clients
 
-Ini adalah aplikasi atau tools yang berinteraksi dengan MongoDB server.
-
-- MongoDB Shell (mongo): Command-line interface untuk berinteraksi dengan database. Biasanya diinstall pada client untuk konfigurasi dan interaksi dasar.
-- Driver MongoDB: Library untuk berbagai bahasa pemrograman (seperti Python, Java, Node.js) yang memungkinkan aplikasi berinteraksi dengan MongoDB.
-- GUI Tools: Seperti MongoDB Compass untuk manajemen visual database.
-- Aplikasi yang Anda kembangkan: Menggunakan driver MongoDB untuk berkomunikasi dengan server.
+hari ini belajar github
 
 ## Interaksi Client-Server
 
